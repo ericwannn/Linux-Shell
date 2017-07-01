@@ -1,11 +1,34 @@
-## Welcome !
+# Welcome !
 
-### What's this ?
+## What's this ?
 
-First of all, it's NOT a tutorial. It just gives it all away, giving some potential solutions to some problem that everyone might come across when playing with shell scripting. 
+- Some (very basic) cases of text manipulation on Linux I had problem with and some commands or scripts I managed to solve them.  
 
-### What are in there ?
+- It's NOT a tutorial. It simply records the attempts I made and just gives it all away, showing some potential solutions to those practical cases. They might not be the most efficient but everytime when I figure out any way faster or interesting I will put it here. 
 
-Inside this repository are some of the scripts I used or I think that might be useful in manipulation of text in Linux/Mac OS environment categorised by problem. More solutions might be commmited in the future.
+- I am still learning shell scripting and some interesting commands i.e., awk, sed. etc. You are always welcomed to share your ideas here XD 
+
+
+## Content
+
+#### Editing
+##### Remove extra space
+##### Replace certain text
+
+
+
+#### Counting
+##### Basic counting
+##### Complex counting
+
+
+
+#### Filtering
+##### Basci filtering
+##### Read external conditions
+
+
+
+#### Sorting
 
 
