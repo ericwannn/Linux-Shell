@@ -1,4 +1,4 @@
-# Welcome !
+# **Welcome** !
 
 ## What's this ?
 
@@ -11,24 +11,25 @@
 
 ## Content
 
-#### Editing
-##### Remove extra space
-##### Replace certain text
+#### 1. Editing
+##### 1.1 Remove extra space
+##### 1.2 Replace certain text
 
 
 
-#### Counting
-##### Basic counting
-##### Complex counting
+#### 2. Counting
+##### 2.1 Basic counting
+##### 2.2 Complex counting
 
 
 
-#### Filtering
-##### Basci filtering
-##### Read external conditions
+#### 3. Filtering
+##### 3.1 Basci filtering
+##### 3.2 Read external conditions
 
 
 
-#### Sorting
+#### 4. Sorting
 
 
+---
